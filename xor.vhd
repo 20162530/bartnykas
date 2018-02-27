@@ -1,5 +1,5 @@
 -- File: xor.vhd
--- Compiled by: Mantas Žegunis Ef-16/2
+-- Compiled by: Vardas Pavarde
 library ieee;
 use ieee.std_logic_1164.all;
 
